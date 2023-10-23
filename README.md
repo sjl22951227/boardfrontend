@@ -47,3 +47,45 @@
   - 요약 : OnlineBoard라는 이름의 게시판 제작 프로젝트
 
     
+  
+  메인화면
+    
+  ![메인화면](https://github.com/sjl22951227/onlineboard/assets/144699632/9ab79437-7fcf-41b1-af3e-223d27e7ab88)
+
+  회원가입
+    
+  ![회원가입](https://github.com/sjl22951227/onlineboard/assets/144699632/8f602c14-e45c-473f-a378-a0b94aff5011)
+
+  로그인
+  
+  ![로그인](https://github.com/sjl22951227/onlineboard/assets/144699632/47c67eef-f00f-4fcc-bafe-724e15565a49)
+
+  페이지 처리
+
+  ![페이지처리](https://github.com/sjl22951227/onlineboard/assets/144699632/ff773e49-1047-4a3c-a87f-7268a64f6a80)
+
+
+  포스트 읽기
+
+  ![포스트읽기](https://github.com/sjl22951227/onlineboard/assets/144699632/6b57b569-166a-412c-bc9e-4329a1a65d3b)
+
+
+  포스팅
+
+  ![포스팅](https://github.com/sjl22951227/onlineboard/assets/144699632/09c07eb7-322d-41bf-8ba4-03804ff44a44)
+
+  제목검색
+
+  ![제목검색](https://github.com/sjl22951227/onlineboard/assets/144699632/ce63c9e5-9e12-4c22-811a-4c95f6984278)
+
+
+  작성자검색
+
+  ![작성자검색](https://github.com/sjl22951227/onlineboard/assets/144699632/11940ca0-405e-4c43-b954-9f0234720fb2)
+
+
+  내용검색
+
+  ![내용검색](https://github.com/sjl22951227/onlineboard/assets/144699632/8623277a-8e6d-4c8c-8aa0-19a0249bfaa5)
+
+
