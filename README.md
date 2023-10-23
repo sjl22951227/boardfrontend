@@ -4,6 +4,8 @@
 
 [백엔드 Repository 링크]https://github.com/sjl22951227/onlineboard
 
+[유튜브 동영상 링크]https://youtu.be/2TkpZJmKfEU
+
 # 프로젝트 특징
 
 - React, Spring으로 게시판을 구현. mysql로 DB 관리
