@@ -1,0 +1,95 @@
+.board-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.read-container {
+  margin-left: 250px;
+}
+
+.comment-box {
+  margin: 5px;
+  display: flex;
+  flex-direction: row;
+  width: auto;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.board-table {
+  width: 80%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+.read-td {
+  word-wrap: break-word; /* 또는 overflow-wrap: break-word; */
+  max-width: 400px; /* 텍스트 칸의 최대 너비 설정 */
+  height: 500px;
+  overflow: auto;
+}
+
+.board-table th,
+.board-table td {
+  padding: 2px;
+  text-align: center;
+  border: 2px solid rgb(228, 189, 189);
+}
+
+.board-table th {
+  background-color: rgb(249, 210, 210);
+}
+
+.pagination {
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.pagination button {
+  margin: 2px 5px;
+  padding: 4px 8px;
+  cursor: pointer;
+}
+.board-table .id-col {
+  width: 40px;
+}
+
+.board-table .title-col {
+  width: 400px;
+}
+.board-table .title-link {
+  color: rgb(41, 40, 40);
+  text-decoration: none;
+  transition: font-size 0.3s ease, text-decoration 0.3s ease;
+}
+
+.td-hovered:hover {
+  background-color: rgb(222, 222, 222);
+}
+.title-link:hover {
+  text-decoration: underline;
+}
+
+.board-table .date-col {
+  width: 40px;
+  /* text-align: right; */
+}
+.search-container {
+  background-color: rgb(252, 224, 224);
+  width: 300px;
+  border-radius: 40px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 25px;
+}
+
+button {
+  padding: 8px 8px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #0056b3;
+}

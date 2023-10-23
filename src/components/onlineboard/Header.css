@@ -1,0 +1,14 @@
+header {
+  background-color: rgb(249, 210, 210);
+}
+.jb-sidebar {
+  width: 260px;
+  padding: 20px;
+  margin-bottom: 20px;
+  float: right;
+  border: 1px solid #bcbcbc;
+}
+.nav-item{
+  font-size: 30px;
+  color: red;
+}
