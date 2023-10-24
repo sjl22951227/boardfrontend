@@ -2,6 +2,10 @@
 
 게시판 프로젝트의 프론트엔드 Repository 입니다.
 
+아래 링크를 클릭하시면 실제 게시판을 사용해보실 수 있습니다.
+
+[OnlineBoard 게시판 링크]http://onlineboard-frontend-v1.s3-website.ap-northeast-2.amazonaws.com 
+
 [백엔드 Repository 링크]https://github.com/sjl22951227/onlineboard
 
 [유튜브 동영상 링크]https://youtu.be/2TkpZJmKfEU
