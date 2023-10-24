@@ -76,6 +76,12 @@
 
   ![포스팅](https://github.com/sjl22951227/onlineboard/assets/144699632/09c07eb7-322d-41bf-8ba4-03804ff44a44)
 
+  포스팅 수정
+
+  
+  <img width="1917" alt="업데이트 포스트" src="https://github.com/sjl22951227/boardfrontend/assets/144699632/f1685f0c-dee0-4849-b58c-91ebfe016a81">
+
+
   제목검색
 
   ![제목검색](https://github.com/sjl22951227/onlineboard/assets/144699632/ce63c9e5-9e12-4c22-811a-4c95f6984278)
